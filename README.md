@@ -1,2 +1,2 @@
 # TensorFlow-for-Data-Science
-This project will be updated continuously.
+This notes made for Atıl Samancıoğlu's Python and Tensorflow for Data Science course.
